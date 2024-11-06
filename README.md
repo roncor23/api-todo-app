@@ -4,7 +4,7 @@
 
 ## Project Set-up
 
-## Update base on your choice
+## Update ENV
 
 DB_DATABASE=your_database_name
 DB_USERNAME=your_username
